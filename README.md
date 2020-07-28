@@ -13,14 +13,17 @@ Meu nome é **Gustavo Borges**, Desenvolvedor Front End e UI/UX Designer.
 
 [![Github Badge](https://img.shields.io/github/followers/gubleo?label=Seguir&style=social)](https://github.com/gubleo)
 
-### Saiba um pouco da Craos.net
+_____
 
-Ter soluções tecnológicas que facilitem o desenvolvimento de processos, e que permitam avanços ou crescimento mais rápido é o que desejamos.
+### Sobre a Craos.net  [![Github Badge](https://img.shields.io/github/followers/craos?label=Craos.net&style=social)](https://github.com/Craos/craos)
 
-Sou desenvolvedor de softwares pela Craos.NET, empresa que administro a pelo menos 10 anos. No nosso dia-a-dia, procuramos auxiliar as pessoas em suas dificuldades, onde a tecnologia deve ser bem empregada.
+>Ter soluções tecnológicas que facilitem o desenvolvimento de processos, e que permitam avanços ou crescimento mais rápido é o que desejamos.
 
-Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalmente simples de usar.
+>Sou desenvolvedor de softwares pela Craos.NET, empresa que administro a pelo menos 10 anos. No nosso dia-a-dia, procuramos auxiliar as pessoas em suas dificuldades, onde a tecnologia deve ser bem empregada.
 
-> Conheça a Craos :rocket: [craos.net](https://craos.net) [![Github Badge](https://img.shields.io/github/followers/craos?label=Craos.net&style=social)](https://github.com/Craos/craos)
+>Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalmente simples de usar.
 
-[![Github Badge](https://img.shields.io/github/followers/gubleo?label=Seguir&style=social)](https://github.com/gubleo)
+> Conheça a Craos :rocket: [craos.net](https://craos.net)
+
+[![Github Badge](https://img.shields.io/github/followers/craos?label=Craos.net&style=social)](https://github.com/Craos/craos)
+
