@@ -23,6 +23,6 @@ Sou desenvolvedor de softwares pela Craos.NET, empresa que administro a pelo men
 Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalmente simples de usar.
 
 
-[![Github Badge](https://craos.net?label=Craos.net&style=social)](https://craos.net/)
+[![Github Badge](https://img.shields.io/github/followers/?label=Craos.net&style=social)](https://craos.net/)
 
 [![Github Badge](https://img.shields.io/github/followers/gubleo?label=Seguir&style=social)](https://github.com/gubleo)
