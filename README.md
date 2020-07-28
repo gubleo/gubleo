@@ -19,7 +19,7 @@ _____
 
 >Ter soluções tecnológicas que facilitem o desenvolvimento de processos, e que permitam avanços ou crescimento mais rápido é o que desejamos.
 
->Sou desenvolvedor de softwares pela Craos.NET, empresa que administro a pelo menos 10 anos. No nosso dia-a-dia, procuramos auxiliar as pessoas em suas dificuldades, onde a tecnologia deve ser bem empregada.
+>Faço parte do time de desenvolvimento da Craos.NET, empresa que faço parte a mais de 4 anos. No nosso dia-a-dia, procuramos auxiliar as pessoas em suas dificuldades, onde a tecnologia deve ser bem empregada.
 
 >Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalmente simples de usar.
 
