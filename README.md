@@ -14,7 +14,6 @@ Meu nome é **Gustavo Borges**, Desenvolvedor Front End e UI/UX Designer.
 [![Github Badge](https://img.shields.io/github/followers/gubleo?label=Seguir&style=social)](https://github.com/gubleo)
 
 ### Saiba um pouco da Craos.net
-> Conheça a Craos :rocket: [craos.net](https://craos.net)
 
 Ter soluções tecnológicas que facilitem o desenvolvimento de processos, e que permitam avanços ou crescimento mais rápido é o que desejamos.
 
@@ -22,7 +21,6 @@ Sou desenvolvedor de softwares pela Craos.NET, empresa que administro a pelo men
 
 Nosso papel é fabricar soluções que sejam funcionais, objetivas e principalmente simples de usar.
 
-
-[![Github Badge](https://img.shields.io/github/followers/craos?label=Craos.net&style=social)](https://github.com/Craos/craos)
+> Conheça a Craos :rocket: [craos.net](https://craos.net) [![Github Badge](https://img.shields.io/github/followers/craos?label=Craos.net&style=social)](https://github.com/Craos/craos)
 
 [![Github Badge](https://img.shields.io/github/followers/gubleo?label=Seguir&style=social)](https://github.com/gubleo)
