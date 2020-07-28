@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo@craos.net)](mailto:gustavo@craos.net)
 [![Github Badge](https://img.shields.io/github/followers/gubleo?label=Seguir&style=social)](https://github.com/gubleo)
 
-Meu nome é Gustavo Borges, Desenvolvedor Front End e UI/UX Designer.
+Meu nome é **Gustavo Borges**, Desenvolvedor Front End e UI/UX Designer.
 
 - :office_worker: Faço parte do time de desenvolvedores de tecnologias pela **Craos.net**
 - :man_technologist: Techs: HTML, JavaScript, Node.js, VueJS, TypeScript e mais!
