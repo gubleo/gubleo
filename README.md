@@ -7,7 +7,6 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972761308)](https://api.whatsapp.com/send?phone=5511972761308)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo@craos.net)](mailto:gustavo@craos.net)
 
-
 Meu nome é **Gustavo Borges**, Desenvolvedor Front End e UI/UX Designer.
 
 - :office_worker: Faço parte do time de desenvolvedores de tecnologias pela **Craos.net**
