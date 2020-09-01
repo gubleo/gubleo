@@ -34,6 +34,8 @@ _____
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
+[![Github Badge](https://img.shields.io/github/followers/gubleo?label=Seguir&style=social)](https://github.com/gubleo)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gubleo)](https://github.com/gubleo)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact)
