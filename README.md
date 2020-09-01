@@ -10,7 +10,7 @@
 Meu nome é **Gustavo Borges**, Desenvolvedor Front End e UI/UX Designer.
 
 - :office_worker: Faço parte do time de desenvolvedores de tecnologias pela **Craos.net**
-- :computer: Techs: HTML, JavaScript, Node.js, VueJS, TypeScript e mais!
+- :computer: Techs: HTML, JavaScript, Bootstrap e mais!
 
 _____
 
