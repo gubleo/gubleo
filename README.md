@@ -12,10 +12,6 @@ Meu nome é **Gustavo Borges**, Desenvolvedor Front End e UI/UX Designer.
 - :office_worker: Faço parte do time de desenvolvedores de tecnologias pela **Craos.net**
 - :computer: Techs: HTML, JavaScript, Node.js, VueJS, TypeScript e mais!
 
-
-[![Github Badge](https://img.shields.io/github/followers/gubleo?label=Seguir&style=social)](https://github.com/gubleo)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gubleo)](https://github.com/gubleo)
-
 _____
 
 ### Sobre a Craos.net  [![Github Badge](https://img.shields.io/github/followers/craos?label=Craos.net&style=social)](https://github.com/Craos/craos)
