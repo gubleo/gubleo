@@ -1,4 +1,4 @@
-Oi, eu sou o **Gustavo Borges**!
+Oi, eu sou o **Gustavo Borges**
 
 [![Github Badge](https://img.shields.io/github/followers/gubleo?label=Seguir&style=social)](https://github.com/gubleo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gubleo/)](https://www.linkedin.com/in/gubleo/)
