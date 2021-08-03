@@ -16,15 +16,6 @@ Oi, eu sou o **Gustavo Borges**
 ![javaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javaScript&logoColor=FFFF00)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=00FF00)
 
-
-### Conheça a Craos.net  [![Github Badge](https://img.shields.io/github/followers/craos?label=Craos.net&style=social)](https://github.com/Craos/craos)
-
->Ter soluções tecnológicas que facilitem o desenvolvimento de processos, e que permitam avanços ou crescimento mais rápido é o que desejamos.
-
-> Conheça a Craos :rocket: [craos.net](https://craos.net/)
-
-> [![Github Badge](https://img.shields.io/github/followers/craos?label=Craos.net&style=social)](https://github.com/Craos/craos) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/craos)](https://github.com/craos) [![Instagram Badge](https://img.shields.io/badge/craosnet-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/craosnet/)](https://www.instagram.com/craosnet/) [![Linkedin Badge](https://img.shields.io/badge/craosnet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/craosnet)](https://www.linkedin.com/company/64257429/)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact)
 
