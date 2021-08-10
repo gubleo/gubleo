@@ -1,4 +1,5 @@
 [![Github Badge](https://img.shields.io/github/followers/gubleo?label=Seguir&style=social)](https://github.com/gubleo)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gubleo/)](https://www.linkedin.com/in/gubleo/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/gubleo/)](https://www.instagram.com/gubleo/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972761308)](https://api.whatsapp.com/send?phone=5511972761308)
