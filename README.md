@@ -17,5 +17,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gubleo)](https://github.com/anuraghazra/github-readme-stats)
 
