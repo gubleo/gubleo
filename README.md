@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo@craos.net)](mailto:gustavo@craos.net)
 
 
-## Visitor Counter
+## Contador de Visitas
 <img src="https://profile-counter.glitch.me/gubleo/count.svg" />
   
 ![Postgresql](https://img.shields.io/badge/-SQL-000000?style=flat&logo=PostgreSQL)
@@ -21,9 +21,9 @@
 ![javaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javaScript&logoColor=FFFF00)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=00FF00)
 
-## GitHub Statistics
+## Minhas estatisticas do GitHub
 >![Github Stats](https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true)
 
-## Mostly Coded in On Public Repositories. 
+## As linguagens que mais me estresso... 
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact)
 
