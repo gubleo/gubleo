@@ -18,9 +18,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=836FFF)
 ![javaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javaScript&logoColor=FFFF00)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=00FF00)
-
-## Contador de Visitas
-<img src="https://profile-counter.glitch.me/gubleo/count.svg" />
   
 ## Minhas estatisticas do GitHub
 >![Github Stats](https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true)
@@ -28,3 +25,5 @@
 ## As linguagens que mais me estresso... 
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact)
 
+## Contador de Visitas
+<img src="https://profile-counter.glitch.me/gubleo/count.svg" />
