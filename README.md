@@ -6,9 +6,7 @@
 
 [![Github Badge](https://img.shields.io/github/followers/gubleo?label=Seguir&style=social)](https://github.com/gubleo)
 
->![Github Stats](https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true)
-
->![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact)
+>![Github Stats](https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact)
 
 ![Postgresql](https://img.shields.io/badge/-SQL-000000?style=flat&logo=PostgreSQL)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
@@ -20,5 +18,5 @@
 ![javaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javaScript&logoColor=FFFF00)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=00FF00)
 
-## Contador de Visitas
+> Visitas neste perfil
 <img src="https://profile-counter.glitch.me/gubleo/count.svg" />
