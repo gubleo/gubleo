@@ -7,14 +7,14 @@
 >![Github Stats](https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact)
 
 ![](https://img.shields.io/badge/-SQL-000000?style=flat&logo=PostgreSQL)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FFFF00)
-![BootStrap](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=BootStrap&logoColor=4B0082)
-![HTML5](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5&logoColor=FF4500)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=836FFF)
-![javaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javaScript&logoColor=FFFF00)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=00FF00)
+![](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FFFF00)
+![](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=BootStrap&logoColor=4B0082)
+![](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5&logoColor=FF4500)
+![](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=836FFF)
+![](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javaScript&logoColor=FFFF00)
+![.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=00FF00)
 
 > Visitas neste perfil
 <img src="https://profile-counter.glitch.me/gubleo/count.svg" />
