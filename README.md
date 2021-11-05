@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=836FFF)
 ![](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javaScript&logoColor=FFFF00)
 ![.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=00FF00)
+
 [![Github Badge](https://img.shields.io/github/followers/gubleo?label=Seguir&style=social)](https://github.com/gubleo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gubleo/)](https://www.linkedin.com/in/gubleo/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/gubleo/)](https://www.instagram.com/gubleo/)
