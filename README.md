@@ -14,6 +14,8 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511972761308)](https://api.whatsapp.com/send?phone=5511972761308)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo@craos.net)](mailto:gustavo@craos.net)
 
+
+[![wakatime](https://wakatime.com/badge/user/cecdfd92-de2e-4590-84ab-d8f8fa1145d2.svg)](https://wakatime.com/@cecdfd92-de2e-4590-84ab-d8f8fa1145d2)
 >![Github Stats](https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true)
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact)
 
