@@ -1,8 +1,4 @@
 [![wakatime](https://wakatime.com/badge/user/cecdfd92-de2e-4590-84ab-d8f8fa1145d2.svg)](https://wakatime.com/@cecdfd92-de2e-4590-84ab-d8f8fa1145d2)
-
-### Bem-Vindo ao meu GitHub.. 😄
-🖥  Dev. Front End na @Craos.net<br>
-
 <br>
 
 <div>
