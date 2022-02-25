@@ -2,7 +2,6 @@
 <br>
 
 <div>
-  <a href="https://github.com/DeveloperMatheus97">
   <img height = "140em" src = "https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true"/>
   <img height = "140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact&theme=react"/>
 </div>
@@ -18,6 +17,6 @@
   <img align="center" height="30" width="40" alt="mysql" src = "https://icongr.am/devicon/postgresql-original.svg?size=128&color=8402ca"/>
 </div>
   
-  
-  ☎️ linkedin: https://www.linkedin.com/in/gubleo/
-  ✉️ email profissional: gubleo@outlook.com
+    ✉️ email profissional: gubleo@outlook.com
+    ☎️ linkedin: https://www.linkedin.com/in/gubleo/
+
