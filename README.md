@@ -19,5 +19,5 @@
 </div>
   
   
-  ✉️ e-mail profissional: gubleo@outlook.com  
   ☎️ linkedin: https://www.linkedin.com/in/gubleo/
+  ✉️ email profissional: gubleo@outlook.com
