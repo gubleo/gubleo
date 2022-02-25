@@ -17,6 +17,6 @@
   <img align="center" height="30" width="40" alt="mysql" src = "https://icongr.am/devicon/postgresql-original.svg?size=128&color=8402ca"/>
 </div>
   
-    ✉️ email profissional: gubleo@outlook.com
-    ☎️ linkedin: https://www.linkedin.com/in/gubleo/
+✉️ email profissional: gubleo@outlook.com
+☎️ linkedin: https://www.linkedin.com/in/gubleo/
 
