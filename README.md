@@ -18,7 +18,9 @@
   <img align="center" height="30" width="40" alt="git" src = "https://icongr.am/devicon/git-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="mysql" src = "https://icongr.am/devicon/postgresql-original.svg?size=128&color=8402ca"/>
 </div>
-  <br>
+  <br><br>
+  Atualmente atuando na equipe de desenvolvimento de tecnologias da empresa <b>@Craosnet</b> desenvolvendo soluções que integram no dia-a-dia dos condomínios de pequeno/medio/grande porte.
+  <br><br>
 ✉️ email profissional: gubleo@outlook.com <br>
 ☎️ linkedin: https://www.linkedin.com/in/gubleo/
 
