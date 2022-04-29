@@ -22,5 +22,6 @@
   Atualmente atuando na equipe de desenvolvimento de tecnologias da empresa <b>@Craosnet</b> desenvolvendo soluções que integram no dia-a-dia dos condomínios de pequeno/medio/grande porte.
   <br><br>
 ✉️ Email profissional: gubleo@outlook.com <br>
-☎️ LinkedIn: https://www.linkedin.com/in/gubleo/
+☎️ LinkedIn: https://linkedin.com/in/gubleo/
+  Instagram: https://instagram.com/gubleo
 
