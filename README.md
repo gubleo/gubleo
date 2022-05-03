@@ -5,7 +5,6 @@
 
 <div>
   <img height = "140em" src = "https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true"/>
-  <br>
   <img height = "140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact&theme=react"/>
 </div>
 
