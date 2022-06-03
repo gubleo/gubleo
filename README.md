@@ -2,7 +2,7 @@
   <img align="center" width="200" src="https://user-images.githubusercontent.com/43252092/171911519-59a52600-31d3-4c5f-861c-4b7439a00494.png"/><br>
     Faço parte do time de Dev. da <b>@Craosnet</b> desenvolvendo soluções que integram no dia-a-dia <br>dos condomínios de pequeno/medio/grande porte.
 <br><br>
-  gubleo@outlook.com -
+  <a>gubleo@craos.net</a> -
 https://linkedin.com/in/gubleo/ -
 https://instagram.com/gubleo <br><br>
   
