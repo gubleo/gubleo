@@ -1,12 +1,14 @@
 <div align="center">
-
   <img align="center" width="200" src="https://user-images.githubusercontent.com/43252092/171911519-59a52600-31d3-4c5f-861c-4b7439a00494.png"/><br>
+    Faço parte do time de Dev. da <b>@Craosnet</b> desenvolvendo soluções que integram no dia-a-dia <br>dos condomínios de pequeno/medio/grande porte.
+<br><br>
   gubleo@outlook.com -
 https://linkedin.com/in/gubleo/ -
 https://instagram.com/gubleo <br><br>
-  Faço parte do time de Dev. da <b>@Craosnet</b> desenvolvendo soluções que integram no dia-a-dia dos condomínios de pequeno/medio/grande porte.
-<br><br>
-
+  
+  [![wakatime](https://wakatime.com/badge/user/cecdfd92-de2e-4590-84ab-d8f8fa1145d2.svg)](https://wakatime.com/@cecdfd92-de2e-4590-84ab-d8f8fa1145d2)
+  <br>
+  
 <div>
   <img height = "140em" src = "https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true"/>
   <img height = "140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact&theme=react"/>
@@ -22,9 +24,8 @@ https://instagram.com/gubleo <br><br>
   <img align="center" height="30" width="40" alt="git" src = "https://icongr.am/devicon/git-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="mysql" src = "https://icongr.am/devicon/postgresql-original.svg?size=128&color=8402ca"/>
 </div>
-<br>
+<br><br>
 
   
-  [![wakatime](https://wakatime.com/badge/user/cecdfd92-de2e-4590-84ab-d8f8fa1145d2.svg)](https://wakatime.com/@cecdfd92-de2e-4590-84ab-d8f8fa1145d2)
-
+  
   </div>
