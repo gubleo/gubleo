@@ -24,6 +24,7 @@
   <img align="center" height="30" width="40" alt="bootstrap" src = "https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="git" src = "https://icongr.am/devicon/git-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="mysql" src = "https://icongr.am/devicon/postgresql-original.svg?size=128&color=8402ca"/>
+  <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/nodejs-original.svg?size=128&color=8402ca"/>
 </div>
 <br><br>
   </div>
