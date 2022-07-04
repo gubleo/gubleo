@@ -1,6 +1,6 @@
 <div align="center">
   <img align="center" width="200" src="https://user-images.githubusercontent.com/43252092/171911519-59a52600-31d3-4c5f-861c-4b7439a00494.png"/><br>
-    Faço parte do time de Dev. da <b>@Craosnet</b> desenvolvendo soluções que integram no dia-a-dia <br>dos condomínios de pequeno/medio/grande porte.
+    Faço parte do time de Dev. da <b>@Craosnet</b>
 <br><br>
   <a href="mailto:gubleo@craos.net">📭 gubleo@craos.net</a>⠀⠀
 💻 https://linkedin.com/in/gubleo/⠀  ⠀
