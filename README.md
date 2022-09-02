@@ -3,7 +3,7 @@
     Faço parte do time de Dev. da <b>@Craosnet</b><br><br>
     <i>Atualmente desenvolvendo soluções que possam automatizar tarefas e procedimentos de seu negócio.</i>
 <br><br>
-  <a href="mailto:gubleo@craos.net">📭 gubleo@craos.net</a><br>⠀
+  <a href="mailto:gubleo@craos.net">📭 gustavo@craos.net</a><br>⠀
 💻 https://linkedin.com/in/gubleo<br>
 📸 https://instagram.com/gubleo<br><br>
   
