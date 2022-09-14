@@ -24,6 +24,8 @@
   <img align="center" height="30" width="40" alt="git" src = "https://icongr.am/devicon/git-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="mysql" src = "https://icongr.am/devicon/postgresql-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/nodejs-original.svg?size=128&color=8402ca"/>
+  <br><br><br>
+   <img align="center" width="50%" src="https://user-images.githubusercontent.com/43252092/190176146-e03a73b2-67f6-47f7-a53f-b697cc3bdde4.png"/>
 </div>
-<br><br>
   </div>
+
