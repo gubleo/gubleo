@@ -5,6 +5,7 @@
 <br><br>
   <a href="mailto:gubleo@craos.net">📭 gustavo@craos.net</a><br>⠀
 💻 https://linkedin.com/in/gubleo<br>
+
 📸 https://instagram.com/gubleo<br><br>
   
   [![wakatime](https://wakatime.com/badge/user/cecdfd92-de2e-4590-84ab-d8f8fa1145d2.svg)](https://wakatime.com/@cecdfd92-de2e-4590-84ab-d8f8fa1145d2)
