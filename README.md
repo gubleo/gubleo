@@ -10,6 +10,7 @@
   
   [![wakatime](https://wakatime.com/badge/user/cecdfd92-de2e-4590-84ab-d8f8fa1145d2.svg)](https://wakatime.com/@cecdfd92-de2e-4590-84ab-d8f8fa1145d2)
   <br>
+   [![Snake animation](https://github.com/gubleo/gubleo/blob/output/github-contribution-grid-snake.svg)]
  
 <div>
   <img height = "140em" src = "https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true"/>
@@ -26,7 +27,7 @@
   <img align="center" height="30" width="40" alt="mysql" src = "https://icongr.am/devicon/postgresql-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/nodejs-original.svg?size=128&color=8402ca"/>
   <br><br><br>
-     [![Snake animation](https://github.com/gubleo/gubleo/blob/output/github-contribution-grid-snake.svg)]
+    
 </div>
   </div>
 
