@@ -10,7 +10,6 @@
   
   [![wakatime](https://wakatime.com/badge/user/cecdfd92-de2e-4590-84ab-d8f8fa1145d2.svg)](https://wakatime.com/@cecdfd92-de2e-4590-84ab-d8f8fa1145d2)
   <br>
-   [![Snake animation](https://github.com/gubleo/gubleo/blob/output/github-contribution-grid-snake.svg)]
  
 <div>
   <img height = "140em" src = "https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true"/>
@@ -30,4 +29,6 @@
     
 </div>
   </div>
+
+   [![Snake animation](https://github.com/gubleo/gubleo/blob/output/github-contribution-grid-snake.svg)]
 
