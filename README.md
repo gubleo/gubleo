@@ -1,12 +1,7 @@
 <div align="center">
-  <img align="center" width="200" src="https://user-images.githubusercontent.com/43252092/171911519-59a52600-31d3-4c5f-861c-4b7439a00494.png"/><br>
-    Faço parte do time de Dev. da <b>@Craosnet</b><br><br>
-    <i>Atualmente desenvolvendo soluções que possam automatizar tarefas e procedimentos de seu negócio.</i>
-<br><br>
-  <a href="mailto:gubleo@craos.net">📭 gustavo@craos.net</a><br>⠀
-💻 https://linkedin.com/in/gubleo<br>
-
-📸 https://instagram.com/gubleo<br><br>
+  <img align="center" width="200" src="https://user-images.githubusercontent.com/43252092/171911519-59a52600-31d3-4c5f-861c-4b7439a00494.png"/>
+  <br>
+  <a href="mailto:gubleo@craos.net">📭 gustavo@craos.net</a> 💻 <a href="https://linkedin.com/in/gubleo">LinkedIn</a> 📸 <a href="https://instagram.com/gubleo">Instagram</a><br><br>
   
   <div style="display: inline-block;">
   <img align="center" height="30" width="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -16,13 +11,12 @@
   <img align="center" height="30" width="40" alt="git" src = "https://icongr.am/devicon/git-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="mysql" src = "https://icongr.am/devicon/postgresql-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/nodejs-original.svg?size=128&color=8402ca"/>
-  <br><br><br>
-    
+  <br>
 </div>
   
-  [![wakatime](https://wakatime.com/badge/user/cecdfd92-de2e-4590-84ab-d8f8fa1145d2.svg)](https://wakatime.com/@cecdfd92-de2e-4590-84ab-d8f8fa1145d2)
-  <br>
    ![Snake animation](https://github.com/gubleo/gubleo/blob/output/github-contribution-grid-snake.svg)
+  <br>
+  [![wakatime](https://wakatime.com/badge/user/cecdfd92-de2e-4590-84ab-d8f8fa1145d2.svg)](https://wakatime.com/@cecdfd92-de2e-4590-84ab-d8f8fa1145d2)
   
  
 <div>
