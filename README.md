@@ -1,9 +1,32 @@
-<div align="center">
-  <img align="center" width="200" src="https://user-images.githubusercontent.com/43252092/171911519-59a52600-31d3-4c5f-861c-4b7439a00494.png"/>
-  <br>
-  <a href="mailto:gubleo@craos.net">📭 gustavo@craos.net</a> 💻 <a href="https://linkedin.com/in/gubleo">LinkedIn</a> 📸 <a href="https://instagram.com/gubleo">Instagram</a><br><br>
-  
-  <div style="display: inline-block;">
+<div>
+    <a target='_blank' href="https://instagram.com/gubleo">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://linkedin.com/in/gubleo">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
+
+  [![wakatime](https://wakatime.com/badge/user/cecdfd92-de2e-4590-84ab-d8f8fa1145d2.svg)](https://wakatime.com/@cecdfd92-de2e-4590-84ab-d8f8fa1145d2)
+
+
+
+## Olá, seja Bem-Vindo(a), eu sou o Gustavo!
+
+Eu realmente não sei como você chegou aqui, mas vou tentar mostrar um pouco sobre mim para você. ;)
+
+## Informações públicas
+
+Meu nome é Gustavo, também conhecido como Gubarts. Atualmente, moro em São Paulo, Brasil, e meu objetivo é ajudar às pessoas a ingressarem na Área de T.I.
+
+Atualmente trabalho como desenvolvedor o na [Craos.net](https://craos.net) desde 2014, uma empresa focada em desenvolver soluções para condomínios. Desses 9 anos de empresa, 4 anos trabalho como Desenvolvedor :)
+
+## Informações detalhadas
+
+* **Nome**: Gustavo Borges
+* **Idade**: 23 anos
+* **Residindo em**: Sâo Bernardo - SP, Brasil
+* **Stack**:
   <img align="center" height="30" width="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" height="30" width="40" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" height="30" width="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -11,19 +34,17 @@
   <img align="center" height="30" width="40" alt="git" src = "https://icongr.am/devicon/git-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="mysql" src = "https://icongr.am/devicon/postgresql-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/nodejs-original.svg?size=128&color=8402ca"/>
-  <br>
-</div>
-  
-   ![Snake animation](https://github.com/gubleo/gubleo/blob/output/github-contribution-grid-snake.svg)
-  <br>
-  [![wakatime](https://wakatime.com/badge/user/cecdfd92-de2e-4590-84ab-d8f8fa1145d2.svg)](https://wakatime.com/@cecdfd92-de2e-4590-84ab-d8f8fa1145d2)
-  
- 
-<div>
-  <img height = "140em" src = "https://github-readme-stats.vercel.app/api?username=gubleo&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img height = "140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact"/>
-</div>
+* **Contato**: <a href="mailto:gustavo@craos.net">📭 gustavo@craos.net</a>
+* **Aprendendo**: Automação de Processos - I.A
+* **Universidade**: Formado em Análise e Dev. de Sistemas
+* **Prêmios:** Por enquanto, ainda nenhum! Mas estou em busca!
 
-<br>
+## Curiosidades sobre mim
 
-  </div>
+* Sou um criador de conteúdo ativo nas redes sociais, mas opto por manter meu anonimato. Talvez você tropece em algum dos meus vídeos por aí! Hehe...
+* Minha jornada na programação começou em 2011, quando mergulhei de cabeça no mundo do desenvolvimento usando Pawn. Experimentei diferentes abordagens, trocando linhas de código e adotando o método de "tentativa e erro" em um gamemode de GTA San Andreas, explorando para ver como cada mudança afetava o jogo.
+* Ao longo do caminho, tive a sorte de encontrar um mentor que compartilhou generosamente seu conhecimento e me ajudou a avançar. Inspirado por sua dedicação, hoje estendo a mesma ajuda a qualquer pessoa que busca orientação na programação.
+* Ao longo dos anos, administrei dois servidores privados de GTA SA:MP (Pawn) e um servidor de Minecraft Modpack AEDF, que chegou a ter mais de 300 jogadores simultâneos (Java).
+Tenho uma paixão genuína por ajudar os outros e por absorver conhecimentos variados e aleatórios.
+  
+
