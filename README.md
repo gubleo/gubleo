@@ -46,6 +46,6 @@ Atualmente trabalho como desenvolvedor o na [Craos.net](https://craos.net) desde
 * Ao longo do caminho, tive a sorte de encontrar um mentor que compartilhou generosamente seu conhecimento e me ajudou a avançar. Inspirado por sua dedicação, hoje estendo a mesma ajuda a qualquer pessoa que busca orientação na programação.
 * Ao longo dos anos, administrei dois servidores privados de GTA SA:MP (Pawn) e um servidor de Minecraft Modpack AEDF, que chegou a ter mais de 300 jogadores simultâneos (Java).
 Tenho uma paixão genuína por ajudar os outros e por absorver conhecimentos variados e aleatórios.
-* Estou focado em automação de processos e conversas
+* Criei um perfil no instagram e no tiktok pra compartilhar vídeos variados e consegui atingir +3 milhões de acessos neles :o
   
 
