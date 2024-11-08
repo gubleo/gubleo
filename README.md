@@ -24,7 +24,7 @@ Atualmente trabalho como desenvolvedor o na [Craos.net](https://craos.net) desde
 ## Informações detalhadas
 
 * **Nome**: Gustavo Borges
-* **Idade**: 23 anos
+* **Idade**: 24 anos
 * **Residindo em**: Sâo Bernardo - SP, Brasil
 * **Stack**:
   <img align="center" height="30" width="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
