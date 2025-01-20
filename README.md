@@ -17,7 +17,7 @@ Eu realmente não sei como você chegou aqui, mas vou tentar mostrar um pouco so
 
 ## Informações públicas
 
-Meu nome é Gustavo, também conhecido como Gubarts. Atualmente, moro em São Paulo, Brasil, e meu objetivo é ajudar às pessoas a ingressarem na Área de T.I.
+Meu nome é Gustavo. Atualmente, moro em São Paulo, Brasil, e meu objetivo é ajudar às pessoas a ingressarem na Área de T.I.
 
 Atualmente trabalho como desenvolvedor o na [Craos.net](https://craos.net) desde 2014, uma empresa focada em desenvolver soluções para condomínios. Desses 9 anos de empresa, 4 anos trabalho como Desenvolvedor :)
 
