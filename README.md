@@ -35,7 +35,7 @@ Atualmente trabalho como desenvolvedor o na [Craos.net](https://craos.net) desde
   <img align="center" height="30" width="40" alt="mysql" src = "https://icongr.am/devicon/postgresql-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/nodejs-original.svg?size=128&color=8402ca"/>
 * **Contato**: <a href="mailto:gustavo@craos.net">📭 gustavo@craos.net</a>
-* **Aprendendo**: Automação de Processos - I.A
+* **Especialidade**: Automação de Processos e Inteligência Artificial
 * **Universidade**: Formado em Análise e Dev. de Sistemas
 * **Prêmios:** Por enquanto, ainda nenhum! Mas estou em busca!
 
