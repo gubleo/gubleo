@@ -15,6 +15,8 @@
 
 Eu realmente não sei como você chegou aqui, mas vou tentar mostrar um pouco sobre mim para você. ;)
 
+![Visitas no Perfil desde 2025](https://komarev.com/ghpvc/?username=gubleo)
+
 ## Informações públicas
 
 Meu nome é Gustavo. Atualmente, moro em São Paulo, Brasil, e meu objetivo é ajudar às pessoas a ingressarem na Área de T.I.
