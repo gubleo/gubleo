@@ -33,7 +33,10 @@ Atualmente trabalho como desenvolvedor o na [Craos.net](https://craos.net) desde
   <img align="center" height="30" width="40" alt="bootstrap" src = "https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="git" src = "https://icongr.am/devicon/git-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="mysql" src = "https://icongr.am/devicon/postgresql-original.svg?size=128&color=8402ca"/>
+  <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/mysql-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/nodejs-original.svg?size=128&color=8402ca"/>
+  <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/php-original.svg?size=128&color=8402ca"/>
+  <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/c#-original.svg?size=128&color=8402ca"/>
 * **Contato**: <a href="mailto:gustavo@craos.net">📭 gustavo@craos.net</a>
 * **Especialidade**: Automação de Processos e Inteligência Artificial
 * **Universidade**: Formado em Análise e Dev. de Sistemas
