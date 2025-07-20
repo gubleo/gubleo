@@ -37,6 +37,8 @@ Atualmente tenho uma empresa focada em fornecer Soluções em T.I [Craos.net](ht
   <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/nodejs-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/php-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/c-original.svg?size=128&color=8402ca"/>
+  <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/wordpress-plain.svg?size=128&color=8402ca"/>
+  
 * **Contato**: <a href="mailto:gustavo@craos.net">📭 gustavo@craos.net</a>
 * **Especialidade**: Automação de Processos e Inteligência Artificial
 * **Universidade**: Formado em Análise e Dev. de Sistemas
