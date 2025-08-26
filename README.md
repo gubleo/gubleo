@@ -13,20 +13,10 @@
 
 ## Olá, seja Bem-Vindo(a), eu sou o Gustavo!
 
-Eu realmente não sei como você chegou aqui, mas vou tentar mostrar um pouco sobre mim para você. ;)
-
 ![Visitas no Perfil desde 2025](https://komarev.com/ghpvc/?username=gubleo)
-
-## Informações públicas
-
-Meu nome é Gustavo. Atualmente, moro em São Paulo, Brasil, e meu objetivo é ajudar às pessoas a ingressarem na Área de T.I.
-
-Atualmente tenho uma empresa focada em fornecer Soluções em T.I [Craos.net](https://craos.net).
 
 ## Informações detalhadas
 
-* **Nome**: Gustavo Borges
-* **Idade**: 24 anos
 * **Residindo em**: Sâo Bernardo - SP, Brasil
 * **Stack**:
   <img align="center" height="30" width="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -41,16 +31,6 @@ Atualmente tenho uma empresa focada em fornecer Soluções em T.I [Craos.net](ht
   <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/c-original.svg?size=128&color=8402ca"/>
   <img align="center" height="30" width="40" alt="node" src = "https://icongr.am/devicon/wordpress-plain.svg?size=128&color=8402ca"/>
   
-* **Contato**: <a href="mailto:gustavo@craos.net">📭 gustavo@craos.net</a>
+* **Contato**: <a href="mailto:gustavo@craos.net">📭 gustavo@craos.net / contato@trivix.net</a>
 * **Especialidade**: Automação de Processos e Inteligência Artificial
-* **Universidade**: Formado em Análise e Dev. de Sistemas
-* **Prêmios:** Por enquanto, ainda nenhum! Mas estou em busca!
-
-## Curiosidades sobre mim
-
-* Sou um criador de conteúdo ativo nas redes sociais, mas opto por manter meu anonimato. Talvez você tropece em algum dos meus vídeos por aí! Hehe...
-* Ao longo do caminho, tive a sorte de encontrar um mentor que compartilhou generosamente seu conhecimento e me ajudou a avançar. Inspirado por sua dedicação, hoje estendo a mesma ajuda a qualquer pessoa que busca orientação na programação.
-* Criei um perfil no instagram e no tiktok pra compartilhar vídeos variados e consegui atingir +3 milhões de acessos neles :o
-* Em 2025 eu abri minha empresa de Tecnologia, e desde então atuo nela sempre buscando novos desafios ;)
-  
 
