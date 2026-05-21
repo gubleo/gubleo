@@ -11,13 +11,9 @@ Transformo tecnologia em soluções que realmente funcionam.
 
 ### Sobre mim
 
-Sou **desenvolvedor full-stack** e **consultor em tecnologia corporativa**.  
-Atuo criando sistemas, automações e plataformas SaaS sob medida —  
-sempre com foco em **performance, integração e escalabilidade**.
+Atuo criando sistemas, automações e plataformas SaaS sob medida 
 
 - 📍 São Bernardo do Campo — SP, Brasil  
-- 💼 Fundador da [TRX Tecnologia](https://trivix.net)  
-- 🧠 Especialidade: Automação, Integrações e IA aplicada  
 - 📧 Contato: [gustavo@trivix.net](mailto:gustavo@trivix.net)  
 - 💬 WhatsApp: [11 97276-1308](https://wa.me/5511972761308)
 
@@ -37,17 +33,6 @@ sempre com foco em **performance, integração e escalabilidade**.
 
 ---
 
-### Projetos e atuação
-
-- 🧩 **Prospetiva** – CRM baseado em WhatsApp multiatendimento.  
-- 📦 **Gestor de Encomendas** – sistema de controle de malotes e portarias.  
-- 📡 **Smart Scan** – digitalização automatizada com integração web.  
-- 💬 **Mensageria Condominial** – notificações via e-mail, SMS e WhatsApp.  
-
-> Todos os sistemas são desenvolvidos e mantidos sob a marca **TRX Tecnologia**,  
-> com foco em confiabilidade, integração e design funcional.
-
----
 
 ### Vamos conversar?
 
@@ -58,7 +43,6 @@ Entre em contato e vamos construir algo relevante juntos.
 💬 **WhatsApp:** [Clique aqui para iniciar uma conversa](https://wa.me/5511972761308)  
 🌐 **Site:** [trivix.net](https://trivix.net)  
 🔗 **LinkedIn:** [linkedin.com/in/gubleo](https://linkedin.com/in/gubleo)  
-📷 **Instagram:** [@gubarts](https://instagram.com/gubarts)
 
 ---
 
