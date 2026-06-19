@@ -11,7 +11,7 @@ Transformo tecnologia em soluções que realmente funcionam.
 
 ### Sobre mim
 
-Atuo criando sistemas, automações e plataformas SaaS sob medida 
+Atuo criando sistemas, automações e plataformas sob medida 
 
 - 📍 São Bernardo do Campo — SP, Brasil  
 - 📧 Contato: [gustavo@trivix.net](mailto:gustavo@trivix.net)  
